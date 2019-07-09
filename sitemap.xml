@@ -9,6 +9,18 @@
   </url>
   
   <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
     <priority>0</priority>
@@ -23,18 +35,6 @@
   <url>
     <loc>/posts/the-figure-shortcode/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>/about-hugo/</loc>
+    <loc>/about/</loc>
   </url>
   
 </urlset>
