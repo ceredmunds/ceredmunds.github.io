@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charlotte E R Edmunds</title>
@@ -97,6 +97,16 @@ Follow the following steps:
       <guid>/about/</guid>
       <description>I am a Research Fellow in Warwick Business School at the University of Warwick.
 My research focuses on learning and decision-making, although I also collaborate on projects investigating Human-Robot Interaction.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Still under construction :)
+ 2015 Edmunds, C. E. R., Milton, F., &amp;amp; Wills, A. J. (2015). Feedback can be superior to observational training for both rule-based and information-integration category structures. Quarterly Journal of Experimental Psychology.    </description>
     </item>
     
   </channel>
