@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charlotte E R Edmunds</title>
-    <link>https://www.ceredmunds.com/</link>
+    <link>/</link>
     <description>Recent content on Charlotte E R Edmunds</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="https://www.ceredmunds.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
-      <link>https://www.ceredmunds.com/posts/the-figure-shortcode/</link>
+      <link>/posts/the-figure-shortcode/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/the-figure-shortcode/</guid>
+      <guid>/posts/the-figure-shortcode/</guid>
       <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
 https://gohugo.io/content-management/shortcodes/#figure
 This theme has 3 CSS classes made for figure elements:
@@ -26,50 +26,51 @@ This theme has 3 CSS classes made for figure elements:
     
     <item>
       <title>Post With Featured Image</title>
-      <link>https://www.ceredmunds.com/posts/post-with-featured-image/</link>
+      <link>/posts/post-with-featured-image/</link>
       <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/post-with-featured-image/</guid>
+      <guid>/posts/post-with-featured-image/</guid>
       <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
 For example:
----images:-https://picsum.photos/1024/768/?random--- This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://www.ceredmunds.com/posts/typography/</link>
+      <link>/posts/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/posts/typography/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://www.ceredmunds.com/posts/creating-a-new-theme/</link>
+      <link>/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/creating-a-new-theme/</guid>
+      <guid>/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://www.ceredmunds.com/posts/goisforlovers/</link>
+      <link>/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/goisforlovers/</guid>
+      <guid>/posts/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://www.ceredmunds.com/posts/hugoisforlovers/</link>
+      <link>/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/hugoisforlovers/</guid>
+      <guid>/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -80,10 +81,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://www.ceredmunds.com/posts/migrate-from-jekyll/</link>
+      <link>/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/posts/migrate-from-jekyll/</guid>
+      <guid>/posts/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -91,31 +92,31 @@ Follow the following steps:
     
     <item>
       <title>About</title>
-      <link>https://www.ceredmunds.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/about/</guid>
+      <guid>/about/</guid>
       <description>I am a Postdoctoral Researcher at Queen Mary, University of London. I am currently working on communicating uncertainty, work funded by the DSTL.
-I am also a Visiting Fellow in Warwick Business School at the University of Warwick.
+I am also a Visiting Fellowin Warwick Business Schoolat the University of Warwick.
 Generally, I am interested in investigating learning, categorisation and decision-making. That being said, I also collaborate on projects investigating Human-Robot Interaction. (Mainly focusing on the &amp;ldquo;human&amp;rdquo; aspect!)</description>
     </item>
     
     <item>
       <title>Press</title>
-      <link>https://www.ceredmunds.com/press/</link>
+      <link>/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/press/</guid>
+      <guid>/press/</guid>
       <description>Some selected mainstream media articles on my work:
  Infering internal states Telegraph Tech Xplore Business Standard IT-Online NextGov BetaNews BroBible  </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://www.ceredmunds.com/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ceredmunds.com/publications/</guid>
+      <guid>/publications/</guid>
       <description>2020 Inkster, A. B., Milton, F., Edmunds, C. E. R., &amp;amp; Wills, A. J. (Under review). Neural correlates of the inverse base rate effect. Journal of Cognitive Neuroscience.   Edmunds, C. E. R., Bose, D., Camerer, C. F., Mullett, T. L. &amp;amp; Stewart, N. (Under review). Accumulation is late and brief in preferential choice. Nature Human Behaviour.   Edmunds, C., Inkster, A., Jones, P. M., Milton, F., &amp;amp; Wills, A.</description>
     </item>
     
